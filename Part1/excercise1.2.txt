@@ -1,0 +1,8 @@
+Script started on 2021-01-11 12:14:33+0200
+]0;ajnarhi@lx9-fuxi066: ~/DevOpsWithDocker/Part1/1.1[01;32majnarhi@lx9-fuxi066[00m:[01;34m~/DevOpsWithDocker/Part1/1.1[00m$ docker container ls -a[12PexitScriptnano excercise1.1.txt ls[Kdocker container ls -a
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+]0;ajnarhi@lx9-fuxi066: ~/DevOpsWithDocker/Part1/1.1[01;32majnarhi@lx9-fuxi066[00m:[01;34m~/DevOpsWithDocker/Part1/1.1[00m$ docker container ls -a[12PexitScriptnano excercise1.1.txt ls[Kdocker container ls -asudo usermod -aG docker $USER[7Pdocker container ls -als[Knano excercise1.1.txt [12PexitScriptdocker container ls -a[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P -a[1P-a[1Pa[1Pa[Kimage ls
+REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
+]0;ajnarhi@lx9-fuxi066: ~/DevOpsWithDocker/Part1/1.1[01;32majnarhi@lx9-fuxi066[00m:[01;34m~/DevOpsWithDocker/Part1/1.1[00m$ exit
+
+Script done on 2021-01-11 12:15:06+0200
