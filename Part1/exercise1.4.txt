@@ -1,0 +1,12 @@
+Käytetyt komennot:
+
+docker container run -d -it --name mytest devopsdockeruh/exec_bash_exercise
+
+docker container exec -it mytest bash
+
+tail -f ./logs.txt
+
+
+Lopputulos: 
+
+"Docker is easy"
