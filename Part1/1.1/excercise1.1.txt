@@ -1,0 +1,7 @@
+Script started on 2021-01-11 12:09:03+0200
+]0;ajnarhi@lx9-fuxi066: ~/DevOpsWithDocker/Part1/1.1[01;32majnarhi@lx9-fuxi066[00m:[01;34m~/DevOpsWithDocker/Part1/1.1[00m$ docker container ls -a
+CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS                      PORTS     NAMES
+59d85a270f90   nginx     "/docker-entrypoint.…"   13 minutes ago   Exited (0) 13 minutes ago             strange_pasteur
+]0;ajnarhi@lx9-fuxi066: ~/DevOpsWithDocker/Part1/1.1[01;32majnarhi@lx9-fuxi066[00m:[01;34m~/DevOpsWithDocker/Part1/1.1[00m$ exit
+
+Script done on 2021-01-11 12:09:14+0200
