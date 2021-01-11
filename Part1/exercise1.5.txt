@@ -1,0 +1,12 @@
+docker container run -d -it --name looper ubuntu:16.04 sh -c 'echo "Input website:"; read website; echo "Searching.."; sleep 1; curl http://$website;'
+
+docker container exec -it looper bash
+
+apt-get update
+
+apt-get install curl
+
+
+Sitten sekoilin aikani jotain, kunnes tajusin ajaa tehtävässä annetun  komennon containerin sisällä. Toimi.
+
+
