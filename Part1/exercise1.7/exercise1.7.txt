@@ -1,0 +1,5 @@
+docker build -t curler .
+docker container run -it curler bash
+curl helsinki.fi
+
+
