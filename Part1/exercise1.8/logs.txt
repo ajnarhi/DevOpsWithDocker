@@ -1,0 +1,20 @@
+Wed, 13 Jan 2021 10:38:17 GMT
+Wed, 13 Jan 2021 10:38:20 GMT
+Wed, 13 Jan 2021 10:38:23 GMT
+Wed, 13 Jan 2021 10:38:26 GMT
+Secret message is:
+"Volume bind mount is easy"
+Wed, 13 Jan 2021 10:38:32 GMT
+Wed, 13 Jan 2021 10:38:35 GMT
+Wed, 13 Jan 2021 10:38:38 GMT
+Wed, 13 Jan 2021 10:38:41 GMT
+Secret message is:
+"Volume bind mount is easy"
+Wed, 13 Jan 2021 10:38:47 GMT
+Wed, 13 Jan 2021 10:38:50 GMT
+Wed, 13 Jan 2021 10:38:53 GMT
+Wed, 13 Jan 2021 10:38:56 GMT
+Secret message is:
+"Volume bind mount is easy"
+Wed, 13 Jan 2021 10:39:02 GMT
+Wed, 13 Jan 2021 10:39:05 GMT
